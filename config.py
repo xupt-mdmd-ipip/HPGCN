@@ -1,0 +1,10 @@
+epoch = 15000
+IP_data_path = 'data/Indian_pines_corrected.mat'
+IP_label_path = 'data/Indian_pines_gt.mat'
+SL_data_path = 'data/Salinas_corrected.mat'
+SL_label_path = 'data/Salinas_gt.mat'
+sn_train = 'train'
+sn_cdc = 'cdd'
+sn_test = 'test'
+sn_data = 'data'
+sn_label = 'label'
